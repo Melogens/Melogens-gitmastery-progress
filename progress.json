@@ -185,5 +185,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787541272.540192,
+    "completed_at": 1787541274.158771,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
